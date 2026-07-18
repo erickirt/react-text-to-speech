@@ -1,0 +1,25 @@
+# react-text-to-speech
+
+> react-text-to-speech is an easy-to-use React library for converting text to speech using the Web Speech API. It provides the `useSpeech` hook and the `<Speech>` component, with features including real-time text highlighting, dynamic speech controls, directives, unlimited text length, multiple speech instances, error handling, and TypeScript support.
+
+The documentation website is the canonical source for installation, usage guides, API reference, and examples.
+
+## Documentation
+
+- Introduction: https://rtts.vercel.app/docs/
+- useSpeech Hook: https://rtts.vercel.app/docs/usage/useSpeech
+- Speech Component: https://rtts.vercel.app/docs/usage/speech
+- API Reference:
+  - https://rtts.vercel.app/docs/api/useSpeech
+  - https://rtts.vercel.app/docs/api/speech
+- Demo: https://rtts.vercel.app/demo
+- FAQ: https://rtts.vercel.app/faqs
+
+## Package
+
+- npm: https://www.npmjs.com/package/react-text-to-speech
+- Repository: https://github.com/SahilAggarwal2004/react-text-to-speech
+
+## License
+
+MIT
