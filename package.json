@@ -28,11 +28,11 @@
     "@types/react": "19.2.17",
     "@types/react-dom": "19.2.3",
     "concurrently": "10.0.3",
-    "prettier": "3.8.4",
+    "prettier": "3.9.5",
     "prettier-package-json": "2.8.0",
-    "prettier-plugin-tailwindcss": "0.8.0",
-    "release-it": "20.2.0",
+    "prettier-plugin-tailwindcss": "0.8.1",
+    "release-it": "20.2.1",
     "shx": "0.4.0",
-    "typescript": "6.0.3"
+    "typescript": "7.0.2"
   }
 }
