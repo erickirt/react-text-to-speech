@@ -1,9 +1,9 @@
-import { getImageUrl } from "@site/src/utils/images";
 import Heading from "@theme/Heading";
 import clsx from "clsx";
 import { JSX } from "react";
 
 import styles from "./styles.module.css";
+import { getImageUrl } from "../../utils/images";
 
 type FeatureItem = {
   title: string;

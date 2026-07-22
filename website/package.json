@@ -5,8 +5,9 @@
   "scripts": {
     "build": "docusaurus build",
     "clear": "docusaurus clear",
-    "deploy": "pnpm run build && vercel --prod",
+    "deploy": "pnpm run build && pnpm run deploy:vercel",
     "deploy:docusaurus": "docusaurus deploy",
+    "deploy:vercel": "vercel --prod",
     "docusaurus": "docusaurus",
     "serve": "docusaurus serve --host 0.0.0.0 --no-open",
     "start": "docusaurus start --host 0.0.0.0 --no-open",
